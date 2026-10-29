@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://shoppingassist.online/</loc>
+    <loc>https://shoppingassists.online/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://shoppingassist.online/refund-calculator/</loc>
+    <loc>https://shoppingassists.online/refund-calculator/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://shoppingassist.online/claim-letter/</loc>
+    <loc>https://shoppingassists.online/claim-letter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://shoppingassist.online/privacy/</loc>
+    <loc>https://shoppingassists.online/privacy/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://shoppingassist.online/terms/</loc>
+    <loc>https://shoppingassists.online/terms/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://shoppingassist.online/cookies/</loc>
+    <loc>https://shoppingassists.online/cookies/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://shoppingassist.online/refund-policy/</loc>
+    <loc>https://shoppingassists.online/refund-policy/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

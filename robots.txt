@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shoppingassist.online/sitemap.xml
+Sitemap: https://shoppingassists.online/sitemap.xml

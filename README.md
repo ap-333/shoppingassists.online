@@ -1,6 +1,6 @@
-﻿# ShoppingAssist (shoppingassist.online)
+﻿# ShoppingAssist (shoppingassists.online)
 
-Clean rebuild, rebranded from `vrogo.online` to **ShoppingAssist** (`https://shoppingassist.online/`).
+Clean rebuild, rebranded from `vrogo.online` to **ShoppingAssist** (`https://shoppingassists.online/`).
 
 ## Theme
 
